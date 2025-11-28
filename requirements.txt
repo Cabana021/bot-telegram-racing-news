@@ -1,0 +1,6 @@
+requests
+feedparser
+python-dotenv
+python-telegram-bot[job-queue]
+schedule
+pytz
