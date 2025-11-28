@@ -188,14 +188,12 @@ Após iniciar o bot, você pode interagir com ele no Telegram usando:
 
 Algumas sugestões do que você pode contribuir:
 
-- 📊 Criar relatórios em PDF ou CSV
-- ⚙️ Implementar interface gráfica (GUI)
 - 🌐 Suporte para outros idiomas
 - 🛡️ Melhorias na segurança e tratamento de erros
 
 ### Encontrou um bug?
 
-Abra uma [issue](https://github.com/Cabana021/football-manager-data-analysis/issues) descrevendo o problema, e vamos resolver juntos!
+Abra uma [issue](https://github.com/Cabana021/bot-telegram-racing-news/issues) descrevendo o problema, e vamos resolver juntos!
 
 **Obrigado por ajudar a tornar este projeto ainda melhor!**
 
